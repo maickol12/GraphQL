@@ -1,0 +1,25 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "tittle":"NodeJS Course",
+            "author":"Jonh Carter",
+            "topic":"Javascript",
+            "url":"http:google.com"
+        },
+        {
+            "id":2,
+            "tittle":"Rust",
+            "author":"Jonh Carter",
+            "topic":"Javascript",
+            "url":"http:google.com"
+        },
+        {
+            "id":3,
+            "tittle":"Java",
+            "author":"Jonh Carter",
+            "topic":"Javascript",
+            "url":"http:google.com"
+        }
+    ]
+}  
